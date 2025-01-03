@@ -1,0 +1,15 @@
+.hero-image {
+    /* Use "linear-gradient" to add a darken background effect to the image (photographer.jpg). This will make the text easier to read */
+    background-image: 
+      url(newBannerText.png);
+  
+    
+}
+  
+button {
+
+  background-color:#001F3F;
+
+  /* Other button styles as needed */ 
+
+}
